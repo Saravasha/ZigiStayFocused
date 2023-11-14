@@ -17,3 +17,6 @@ function logTabs(tabs) {
   
   browser.tabs.query({ currentWindow: true }, logTabs);
   
+
+
+  // Lär dig från beastify hur man gör ett extension-UI för schemaläggandet av addonet, sedan i dunno
